@@ -120,7 +120,8 @@ h1, h2, h3,
    overriding the correct --bs- variables. */
 
 .navbar {
-
+   --bs-navbar-hover-color: var(--bf-white);
+   --bs-navbar-active-color: var(--bf-lime);
 }
 
 
