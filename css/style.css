@@ -43,7 +43,16 @@
      colour and link colour. Point each one at your variables.
      Remember: some colours also need their -rgb twin. */
 
-
+   --bs-body-bg: var(--bf-black)
+   --bs-body-color: var(--bf-white);
+   --bs-body-font-family: var(--bf-font-body);
+   --bs-border-radius: var(--bf-radius);
+   --bs-primary: var(--bf-pink);
+   --bs-primary-rgb: var(--bf-pink-rgb);
+   --bs-info: var(--bf-sky);
+   --bs-info-rgb: var(--bf-sky-rgb);
+   --bs-link-color: var(--bf-lime);
+   --bs-link-color-rgb: var(--bf-lime-rgb);
 
 }
 
