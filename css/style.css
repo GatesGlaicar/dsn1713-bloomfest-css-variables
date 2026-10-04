@@ -131,9 +131,13 @@ h1, h2, h3,
    --bs- variables for this button. */
 
 .btn-primary {
-
+   --bs-btn-bg: var(--bf-pink);
+   --bs-btn-border-color: var(--bf-pink);
+   --bs-btn-hover-bg: var(--bf-pink-dark);
+   --bs-btn-hover-border-color: var(--bf-pink-dark);
+   --bs-btn-active-bg: var(--bf-pink-dark);
+   --bs-btn-active-border-color: var(--bf-pink-dark);
 }
-
 
 /* TASK 8: The orange button
    Same variables as Task 7, plus the text colour variables. */
