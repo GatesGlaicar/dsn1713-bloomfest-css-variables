@@ -143,7 +143,15 @@ h1, h2, h3,
    Same variables as Task 7, plus the text colour variables. */
 
 .btn-warning {
-
+   --bs-btn-bg: var(--bf-orange);
+   --bs-btn-border-color: var(--bf-orange);
+   --bs-btn-color: var(--bf-white);
+   --bs-btn-hover-bg: var(--bf-orange-dark);
+   --bs-btn-hover-border-color: var(--bf-orange-dark);
+   --bs-btn-hover-color: var(--bf-white);
+   --bs-btn-active-bg: var(--bf-orange-dark);
+   --bs-btn-active-border-color: var(--bf-orange-dark);
+   --bs-btn-active-color: var(--bf-white);
 }
 
 
