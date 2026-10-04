@@ -102,15 +102,15 @@ h1, h2, h3,
    and quote section uses purple. */
 
 .site-header {
-
+   background-color: var(--bf-black);
 }
 
 .schedule-section {
-
+   background-color: var(--bf-charcoal);
 }
 
 .quote-section {
-
+   background-color: var(--bf-purple);
 }
 
 
