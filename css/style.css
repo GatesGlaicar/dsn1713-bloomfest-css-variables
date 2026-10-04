@@ -85,15 +85,15 @@ h1, h2, h3,
 
 .hero-dates,
 .section-label {
-   color: ________________;
+   color: var(--bf-lime);
 }
 
 .festival-quote::before {
-   color: ________________;
+   color: var(--bf-pink);
 }
 
 .info-text p:first-of-type::first-letter {
-   color: ________________;
+   color: var(--bf-orange);
 }
 
 
