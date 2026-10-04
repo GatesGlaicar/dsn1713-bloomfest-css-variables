@@ -67,16 +67,16 @@ h1, h2, h3,
 .footer-logo,
 .form-heading,
 .blockquote {
-   font-family: ________________;
+   font-family: var(--bf-font-display);
 }
 
 .hero-title {
-   font-size: ________________;
+   font-size: var(--bf-fs-hero);
 }
 
 .section {
-   padding-top: ________________;
-   padding-bottom: ________________;
+   padding-top: var(--bf-space-section);
+   padding-bottom: var(--bf-space-section);
 }
 
 
